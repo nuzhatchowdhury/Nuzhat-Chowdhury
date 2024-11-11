@@ -1,3 +1,4 @@
+![logo](https://github.com/nuzhatchowdhury/Nuzhat-Chowdhury/blob/main/Github%20Banner%20Png.png)
 <h1 align="center">Hi 👋, I'm Nuzhat Chowdhury</h1>
 <h3 align="center">A passionate Jr. Security Analyst from Bangladesh</h3>
 
